@@ -1,0 +1,32 @@
+{
+  "1" : {
+    "titlul" : "Plansul lui Nitzsche",
+    "autorul" : "Irvin Yalom",
+    "anul" : 1992
+  },
+  "3" : {
+    "titlul" : "Mitul lui Camus",
+    "autorul" : "Albert Camus",
+    "anul" : 1942
+  },
+  "4" : {
+    "titlul" : "Scurta istorie a omenirii",
+    "autorul" : "Yuval Noah Harari",
+    "anul" : 2011
+  },
+  "5" : {
+    "titlul" : "Titlu nou",
+    "autorul" : "Autor nou",
+    "anul" : 2023
+  },
+  "6" : {
+    "titlul" : "21 de lectii pentru secolul XXI",
+    "autorul" : "Yuval Noah Harari",
+    "anul" : 2018
+  },
+  "7" : {
+    "titlul" : "Titlu nou",
+    "autorul" : "Autor nou",
+    "anul" : 2023
+  }
+}
